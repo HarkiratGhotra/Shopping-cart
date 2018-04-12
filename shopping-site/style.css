@@ -1,0 +1,33 @@
+body {
+	background-color : powderblue;
+}
+h1{
+	color :blue;
+}
+
+p{
+	color: red;
+}
+
+
+header, footer {
+	padding:0em;
+	color: red;
+	background-color: #7FFF00;
+	clear: left;
+	text-align: center;
+}
+
+nav {
+	float: left;
+	max-width: 160px;
+	margin: 0;
+	padding: item;
+	display: block;
+}
+article {
+	margin-left: 170px;
+	border-left: 1px solid gray;
+	padding: 1em;
+	overflow: hidden
+}
